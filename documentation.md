@@ -57,8 +57,8 @@ To Build and run the project:
 - type "code ." to open project in VSCode.
 - In VSCode, go to "Terminal" menu and select "New Terminal"
 - Once terminal opens, go to drop-down located at top-right of terminal, click on "select default" and choose command prompt.
-- Now execute command -> npm install --save to download and install all angular packages/libraries required for this project to run.
-- Once installed, execute command -> ng serve to start running the angular project.
+- Now execute command -> "npm install --save" to download and install all angular packages/libraries required for this project to run.
+- Once installed, execute command -> "ng serve" to start running the angular project.
 - Go to chrome or any browser and enter "localhost:4200" as url.[Make sure to keep spring-boot project in running]
 
 - Java version has been set to '8' build.gradle file present in root directory, set it to the version that is present in local machine.  
